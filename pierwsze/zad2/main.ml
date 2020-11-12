@@ -62,7 +62,7 @@ let bonifacy n ciag_b =
 (* TESTY *)
 (*********)
 
-(* bonifacy 0 [1; 1; 0; 1];;
+bonifacy 0 [1; 1; 0; 1];;
 bonifacy 1 [1; 1; 0; 1];;
 bonifacy 2 [1; 1; 0; 1];;
 bonifacy 3 [1; 1; 0; 1];;
@@ -77,4 +77,4 @@ bonifacy 11 [1; 1; 0; 1];;
 bonifacy 12 [1; 1; 0; 1];;
 
 bonifacy 8 [0; 1; 0; 1];;
-bonifacy 9 [0; 1; 0; 1];; *)
+bonifacy 9 [0; 1; 0; 1];;
